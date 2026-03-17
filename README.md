@@ -1,29 +1,18 @@
-#👤 Sistema de Gerenciamento de Usuários em Java
+# Sistema de Gerenciamento de Usuários em Java
 
-Projeto desenvolvido com o objetivo de praticar lógica de programação e conceitos de Programação Orientada a Objetos (POO) em Java.
+Projeto simples feito em Java para praticar lógica de programação e POO.
 
----
+## Funcionalidades
 
-## 🚀 Funcionalidades
+- Cadastrar usuários
+- Listar usuários
+- Buscar usuário
+- Remover usuário
 
-- ✅ Cadastrar usuários
-- 📋 Listar usuários
-- 🔍 Buscar usuário por nome
-- ❌ Remover usuário
+## Como executar
 
----
+Abra o projeto em uma IDE (Eclipse ou IntelliJ) e execute a classe Menu.java.
 
-## 🛠️ Tecnologias utilizadas
+## Autor
 
-- Java
-- Scanner
-- Arrays
-- Estruturas condicionais (if, switch)
-- Estruturas de repetição (for, while)
-- Programação Orientada a Objetos (POO)
-
----
-
-## 💻 Como executar o projeto
-
-1. Clone o repositório:
+Thallys José
